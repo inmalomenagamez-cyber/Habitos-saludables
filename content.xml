@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605101531441BNJMR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260510153144TZHUAA</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Hábitos saludables y rutinas diarias</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>My Healthy Day (3º de Primaria – Inglés)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Inmaculada Lomeña Gamez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>¡Bienvenidos y bienvenidas!
+En este proyecto vamos a aprender sobre los hábitos saludables y las rutinas diarias en inglés.
+
+Aprenderás a hablar sobre lo que haces cada día y cómo cuidar tu salud.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>propietary license</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778417586170</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mozrwvra-q5itzqcdu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bienvenida e introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida e introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida e introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Bienvenida e introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvra-q5itzqcdu</odePageId>
+      <odeBlockId>block-1778269997905-ou3abn3vg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvra-q5itzqcdu</odePageId>
+          <odeBlockId>block-1778269997905-ou3abn3vg</odeBlockId>
+          <odeIdeviceId>idevice-1778269997903-bfwzkz333</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Bienvenidos y bienvenidas!<br />En este proyecto vamos a aprender sobre los hábitos saludables y las rutinas diarias en inglés.</p>
+<p>Aprenderás a hablar sobre lo que haces cada día y cómo cuidar tu salud.</p>
+<p>💬 Pregunta inicial:<br />¿Tienes un estilo de vida saludable? Do you have healthy habits?</p>
+<figure class="exe-figure position-center" style="width: 530px; text-align: center;"><img src="{{context_path}}/content/resources/rutinas.jpg" title="Rutinas" width="530" height="516" alt="Rutinas" />
+<figcaption class="figcaption"><span class="title"><em>Rutinas hábitos saludables</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778269997903-bfwzkz333","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Bienvenidos y bienvenidas!<br />En este proyecto vamos a aprender sobre los hábitos saludables y las rutinas diarias en inglés.</p>\n<p>Aprenderás a hablar sobre lo que haces cada día y cómo cuidar tu salud.</p>\n<p>💬 Pregunta inicial:<br />¿Tienes un estilo de vida saludable? Do you have healthy habits?</p>\n<figure class=\"exe-figure position-center\" style=\"width: 530px; text-align: center;\"><img src=\"{{context_path}}/content/resources/rutinas.jpg\" title=\"Rutinas\" width=\"530\" height=\"516\" alt=\"Rutinas\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Rutinas hábitos saludables</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvrd-jrur2uo43</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvrd-jrur2uo43</odePageId>
+      <odeBlockId>block-1778270024652-4sek264ji</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvrd-jrur2uo43</odePageId>
+          <odeBlockId>block-1778270024652-4sek264ji</odeBlockId>
+          <odeIdeviceId>idevice-1778270024650-w5u145f5i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto aprenderemos a:</p>
+<p><br />🗣️ Decir acciones diarias en inglés: wake up, eat, play, sleep…<br />⏰ Hablar de rutinas: I wake up at 8 o’clock.<br />🥗 Identificar hábitos saludables: Healthy food, do exercise...<br />✏️ Crear frases sencillas en inglés: I do sport with my friend.</p>
+<figure class="exe-figure position-center" style="width: 1280px; text-align: center;"><img src="{{context_path}}/content/resources/actividad.jpg" title="Actividad" width="1280" height="853" alt="Actividad" />
+<figcaption class="figcaption"><span class="title"><em>¿Qué vamos a aprender?</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270024650-w5u145f5i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto aprenderemos a:</p>\n<p><br />🗣️ Decir acciones diarias en inglés: wake up, eat, play, sleep…<br />⏰ Hablar de rutinas: I wake up at 8 o’clock.<br />🥗 Identificar hábitos saludables: Healthy food, do exercise...<br />✏️ Crear frases sencillas en inglés: I do sport with my friend.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px; text-align: center;\"><img src=\"{{context_path}}/content/resources/actividad.jpg\" title=\"Actividad\" width=\"1280\" height=\"853\" alt=\"Actividad\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>¿Qué vamos a aprender?</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvre-1ckzs77b1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvre-1ckzs77b1</odePageId>
+      <odeBlockId>block-1778270052604-c6q4ki2nu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvre-1ckzs77b1</odePageId>
+          <odeBlockId>block-1778270052604-c6q4ki2nu</odeBlockId>
+          <odeIdeviceId>idevice-1778270052603-8dqfzg207</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al final del proyecto crearás:<br />🎨 “My Healthy Day”</p>
+<p>Podrás hacerlo en:</p>
+<p>Un póster<br />Una presentación digital<br />Un dibujo con frases</p>
+<p><br />📌 Debe incluir:</p>
+<p>🌅 Rutina de mañana<br />🍎 Alimentación saludable<br />🏃 Ejercicio<br />🌙 Rutina de noche</p>
+<p><br />💬 <strong>Ejemplo:</strong></p>
+<p>I wake up at 8 o’clock.<br />I eat fruit.<br />I play football.</p>
+<figure class="exe-figure position-center" style="width: 1122px; text-align: center;"><img src="{{context_path}}/content/resources/poster.png" title="poster" width="1122" height="1402" alt="poster" />
+<figcaption class="figcaption"><span class="title"><em>Póster</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270052603-8dqfzg207","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al final del proyecto crearás:<br />🎨 “My Healthy Day”</p>\n<p>Podrás hacerlo en:</p>\n<p>Un póster<br />Una presentación digital<br />Un dibujo con frases</p>\n<p><br />📌 Debe incluir:</p>\n<p>🌅 Rutina de mañana<br />🍎 Alimentación saludable<br />🏃 Ejercicio<br />🌙 Rutina de noche</p>\n<p><br />💬 <strong>Ejemplo:</strong></p>\n<p>I wake up at 8 o’clock.<br />I eat fruit.<br />I play football.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1122px; text-align: center;\"><img src=\"{{context_path}}/content/resources/poster.png\" title=\"poster\" width=\"1122\" height=\"1402\" alt=\"poster\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Póster</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvrh-u494ml1ee</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvrh-u494ml1ee</odePageId>
+      <odeBlockId>block-1778270087966-849bhqz34</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvrh-u494ml1ee</odePageId>
+          <odeBlockId>block-1778270087966-849bhqz34</odeBlockId>
+          <odeIdeviceId>idevice-1778270087963-k7a19pzrz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cuando usamos internet debemos hacerlo de forma segura:</p>
+<figure class="exe-figure position-center" style="width: 1280px; text-align: center;"><img src="{{context_path}}/content/resources/seguridad.png" title="seguridad" width="1280" height="853" alt="seguridad" />
+<figcaption class="figcaption"><span class="title"><em>Seguridad digital</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270087963-k7a19pzrz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuando usamos internet debemos hacerlo de forma segura:</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px; text-align: center;\"><img src=\"{{context_path}}/content/resources/seguridad.png\" title=\"seguridad\" width=\"1280\" height=\"853\" alt=\"seguridad\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Seguridad digital</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvri-othutreds</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvri-othutreds</odePageId>
+      <odeBlockId>block-1778270114673-9r5wubzaq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvri-othutreds</odePageId>
+          <odeBlockId>block-1778270114673-9r5wubzaq</odeBlockId>
+          <odeIdeviceId>idevice-1778270114671-4otyf1st1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>👩‍🏫 Para el profesorado</p>
+<ul>
+<li>Vídeos sobre rutinas en inglés</li>
+<li>Fichas de vocabulario</li>
+<li>Flashcards</li>
+</ul>
+<p>👧🧒 Para el alumnado</p>
+<ul>
+<li>Juegos interactivos<br /></li>
+<li>Vídeos sencillos</li>
+<li>Actividades con imágenes</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270114671-4otyf1st1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>👩‍🏫 Para el profesorado</p>\n<ul>\n<li>Vídeos sobre rutinas en inglés</li>\n<li>Fichas de vocabulario</li>\n<li>Flashcards</li>\n</ul>\n<p>👧🧒 Para el alumnado</p>\n<ul>\n<li>Juegos interactivos<br /></li>\n<li>Vídeos sencillos</li>\n<li>Actividades con imágenes</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvrj-3ali0bx3n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvrj-3ali0bx3n</odePageId>
+      <odeBlockId>block-1778270166038-6qfe3wln0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvrj-3ali0bx3n</odePageId>
+          <odeBlockId>block-1778270166038-6qfe3wln0</odeBlockId>
+          <odeIdeviceId>idevice-1778270166037-jxp8p5vjh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🧩 <strong>Actividad 1: Vocabulary</strong><br />Relaciona palabras con imágenes.</p>
+<figure class="exe-figure position-center" style="width: 1075px; text-align: center;"><img src="{{context_path}}/content/resources/relacionar.jpg" title="relacionar" width="1075" height="860" alt="relacionar" />
+<figcaption class="figcaption"><span class="title"><em>Relaciona palabras</em></span></figcaption>
+</figure>
+<p>🗣️ <strong>Actividad 2: Speak</strong></p>
+<p>Repite:</p>
+<p>I wake up<br />I eat<br />I play</p>
+<p><br />✏️ <strong>Actividad 3: Write</strong><br />Escribe:</p>
+<p>I wake up at…</p>
+<p><br />🎨 <strong>Actividad 4: Draw</strong><br />Dibuja tu rutina diaria.</p>
+<figure class="exe-figure position-center" style="width: 1280px; text-align: center;"><img src="{{context_path}}/content/resources/pintar.jpg" title="pintar" width="1280" height="1280" alt="pintar" />
+<figcaption class="figcaption"><span class="title"><em>Dibuja e imagina</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270166037-jxp8p5vjh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🧩 <strong>Actividad 1: Vocabulary</strong><br />Relaciona palabras con imágenes.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1075px; text-align: center;\"><img src=\"{{context_path}}/content/resources/relacionar.jpg\" title=\"relacionar\" width=\"1075\" height=\"860\" alt=\"relacionar\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Relaciona palabras</em></span></figcaption>\n</figure>\n<p>🗣️ <strong>Actividad 2: Speak</strong></p>\n<p>Repite:</p>\n<p>I wake up<br />I eat<br />I play</p>\n<p><br />✏️ <strong>Actividad 3: Write</strong><br />Escribe:</p>\n<p>I wake up at…</p>\n<p><br />🎨 <strong>Actividad 4: Draw</strong><br />Dibuja tu rutina diaria.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px; text-align: center;\"><img src=\"{{context_path}}/content/resources/pintar.jpg\" title=\"pintar\" width=\"1280\" height=\"1280\" alt=\"pintar\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Dibuja e imagina</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvrk-ijcl42635</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvrk-ijcl42635</odePageId>
+      <odeBlockId>block-1778270278064-47rb4f19u</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvrk-ijcl42635</odePageId>
+          <odeBlockId>block-1778270278064-47rb4f19u</odeBlockId>
+          <odeIdeviceId>idevice-1778270278062-79y92g01o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 768px; text-align: center;"><img src="{{context_path}}/content/resources/lineatemporal.png" width="768" height="1024" alt="Línea temporal" />
+<figcaption class="figcaption"><span class="title"><em>Línea temporal</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270278062-79y92g01o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 768px; text-align: center;\"><img src=\"{{context_path}}/content/resources/lineatemporal.png\" width=\"768\" height=\"1024\" alt=\"Línea temporal\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Línea temporal</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvrl-ke0xxabap</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterio de evaluación e instrumento</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterio de evaluación e instrumento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterio de evaluación e instrumento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvrl-ke0xxabap</odePageId>
+      <odeBlockId>block-1778270345753-7v7dn8ryo</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvrl-ke0xxabap</odePageId>
+          <odeBlockId>block-1778270345753-7v7dn8ryo</odeBlockId>
+          <odeIdeviceId>idevice-1778270345752-72xwfp92t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 758px;"><img src="{{context_path}}/content/resources/criterios.png" width="758" height="1016" alt="Criterios" />
+<figcaption class="figcaption"><span class="title"><em>Criterios de evaluación</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270345752-72xwfp92t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 758px;\"><img src=\"{{context_path}}/content/resources/criterios.png\" width=\"758\" height=\"1016\" alt=\"Criterios\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Criterios de evaluación</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvrm-957ns1t25</odePageId>
+  <odeParentPageId>page-mozrwvrl-ke0xxabap</odeParentPageId>
+  <pageName>Instrumento de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumento de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumento de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvrm-957ns1t25</odePageId>
+      <odeBlockId>block-1778270456720-adk144zqq</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvrm-957ns1t25</odePageId>
+          <odeBlockId>block-1778270456720-adk144zqq</odeBlockId>
+          <odeIdeviceId>idevice-1778270456719-theftfsy4</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778270456719-theftfsy4%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20evaluaci%F3n%22%2C%22categories%22%3A%5B%22Vocabulario%22%2C%22Expresi%F3n%20oral%22%2C%22Proyecto%20final%22%5D%2C%22scores%22%3A%5B%22Sobresaliente%22%2C%22Bien%22%2C%22Necesita%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Usa%20el%20vocabulario%20de%20la%20unidad%20empleando%20gran%20cantidad%20de%20palabras%20%281.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Hace%20uso%20de%20algunas%20palabras%20del%20vocabulario%20de%20la%20unidad%20%281.2%29%22%7D%2C%7B%22weight%22%3A%221.00%22%2C%22text%22%3A%22Hace%20poco%20uso%20del%20vocabulario%20de%20la%20unidad%20%281.3%29%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Formula%20frases%20claras%20y%20con%20fluidez%20%282.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Formula%20frases%20pero%20comete%20algunos%20errores%20%282.2%29%22%7D%2C%7B%22weight%22%3A%221.00%22%2C%22text%22%3A%22Formula%20frases%20incompletas%282.3%29%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Realiza%20un%20proyecto%20completo%20y%20claro%20%283.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Realiza%20un%20proyecto%20completo%20pero%20con%20algunos%20errores%283.2%29%22%7D%2C%7B%22weight%22%3A%221.00%22%2C%22text%22%3A%22Realiza%20un%20proyecto%20incompleto%20%283.3%29%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20evaluaci%F3n%22%2C%22categories%22%3A%5B%22Vocabulario%22%2C%22Expresi%F3n%20oral%22%2C%22Proyecto%20final%22%5D%2C%22scores%22%3A%5B%22Sobresaliente%22%2C%22Bien%22%2C%22Necesita%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Usa%20el%20vocabulario%20de%20la%20unidad%20empleando%20gran%20cantidad%20de%20palabras%20%281.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Hace%20uso%20de%20algunas%20palabras%20del%20vocabulario%20de%20la%20unidad%20%281.2%29%22%7D%2C%7B%22weight%22%3A%221.00%22%2C%22text%22%3A%22Hace%20poco%20uso%20del%20vocabulario%20de%20la%20unidad%20%281.3%29%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Formula%20frases%20claras%20y%20con%20fluidez%20%282.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Formula%20frases%20pero%20comete%20algunos%20errores%20%282.2%29%22%7D%2C%7B%22weight%22%3A%221.00%22%2C%22text%22%3A%22Formula%20frases%20incompletas%282.3%29%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Realiza%20un%20proyecto%20completo%20y%20claro%20%283.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Realiza%20un%20proyecto%20completo%20pero%20con%20algunos%20errores%283.2%29%22%7D%2C%7B%22weight%22%3A%221.00%22%2C%22text%22%3A%22Realiza%20un%20proyecto%20incompleto%20%283.3%29%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvrm-668a55lfl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvrm-668a55lfl</odePageId>
+      <odeBlockId>block-1778270401079-qiw11ixyn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvrm-668a55lfl</odePageId>
+          <odeBlockId>block-1778270401079-qiw11ixyn</odeBlockId>
+          <odeIdeviceId>idevice-1778270401078-s40ac4m3l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎯 Objetivo<br />Desarrollar la capacidad de expresar rutinas y hábitos saludables en inglés.</p>
+<p>🔗 Relación actividades - evaluación<br />Actividad 1 → Vocabulario → Criterio 1<br />Actividad 2 → Expresión oral → Criterio 2<br />Actividad 4 → Proyecto → Criterio 4</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270401078-s40ac4m3l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎯 Objetivo<br />Desarrollar la capacidad de expresar rutinas y hábitos saludables en inglés.</p>\n<p>🔗 Relación actividades - evaluación<br />Actividad 1 → Vocabulario → Criterio 1<br />Actividad 2 → Expresión oral → Criterio 2<br />Actividad 4 → Proyecto → Criterio 4</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvrn-yhcwbji7h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DUA y atención a la diversidad</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA y atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA y atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvrn-yhcwbji7h</odePageId>
+      <odeBlockId>block-1778270878923-eiq0w4pg7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvrn-yhcwbji7h</odePageId>
+          <odeBlockId>block-1778270878923-eiq0w4pg7</odeBlockId>
+          <odeIdeviceId>idevice-1778270878922-w7tam4cyy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🧠 ¿Qué es DUA?<br />El DUA (Diseño Universal del Aprendizaje) busca que el aprendizaje sea flexible, ofreciendo varias maneras de:</p>
+<ul>
+<li>Acceder a la información</li>
+<li>Participar</li>
+<li>Expresarse</li>
+</ul>
+<p>En lugar de un “tamaño único para todos”, permite que cada alumno aprenda a su ritmo y con sus fortalezas.</p>
+<p> <br />🎨 Cómo aplicar DUA en nuestro aula:</p>
+<p><br />1️⃣ <strong>Múltiples formas de presentar contenido</strong></p>
+<p>1. Texto + imagen + audio<br />Ejemplo: al explicar “I wake up at 8 o’clock”, pon:</p>
+<ul>
+<li>la frase escrita.</li>
+<li>un dibujo de un niño despertándose</li>
+<li>un audio con la frase hablada<br /> </li>
+</ul>
+<p> 2. Vídeos cortos</p>
+<ul>
+<li>Mostrar rutinas diarias</li>
+</ul>
+<p>3. Animaciones simples</p>
+<ul>
+<li>Iconos que se mueven cuando haces clic.</li>
+</ul>
+<p><br />2️⃣<strong> Múltiples formas de acción y expresión</strong></p>
+<p><br />🖊️ Escribir → frases cortas sobre su rutina<br />🖌️ Dibujar → su día saludable<br />🗣️ Hablar → grabar su voz diciendo frases<br />🕹️ Interactuar → juegos de emparejar palabras o imágenes<br /> <br />3️⃣ <strong>Múltiples formas de motivación y participación</strong></p>
+<p><br />✅ Puntos o stickers virtuales por completar actividades<br />🌟 Retroalimentación positiva inmediata<br />🎯 Actividades opcionales “extra” para los que terminan antes<br />🤝 Trabajo en parejas o grupos para fomentar colaboración</p>
+<p><br /></p>
+<p>🧩 Atención a la diversidad</p>
+<ul>
+<li>Uso de imágenes</li>
+<li>Apoyo visual</li>
+<li>Actividades adaptadas</li>
+<li>Posibilidad de responder oralmente. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270878922-w7tam4cyy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🧠 ¿Qué es DUA?<br />El DUA (Diseño Universal del Aprendizaje) busca que el aprendizaje sea flexible, ofreciendo varias maneras de:</p>\n<ul>\n<li>Acceder a la información</li>\n<li>Participar</li>\n<li>Expresarse</li>\n</ul>\n<p>En lugar de un “tamaño único para todos”, permite que cada alumno aprenda a su ritmo y con sus fortalezas.</p>\n<p> <br />🎨 Cómo aplicar DUA en nuestro aula:</p>\n<p><br />1️⃣ <strong>Múltiples formas de presentar contenido</strong></p>\n<p>1. Texto + imagen + audio<br />Ejemplo: al explicar “I wake up at 8 o’clock”, pon:</p>\n<ul>\n<li>la frase escrita.</li>\n<li>un dibujo de un niño despertándose</li>\n<li>un audio con la frase hablada<br /> </li>\n</ul>\n<p> 2. Vídeos cortos</p>\n<ul>\n<li>Mostrar rutinas diarias</li>\n</ul>\n<p>3. Animaciones simples</p>\n<ul>\n<li>Iconos que se mueven cuando haces clic.</li>\n</ul>\n<p><br />2️⃣<strong> Múltiples formas de acción y expresión</strong></p>\n<p><br />🖊️ Escribir → frases cortas sobre su rutina<br />🖌️ Dibujar → su día saludable<br />🗣️ Hablar → grabar su voz diciendo frases<br />🕹️ Interactuar → juegos de emparejar palabras o imágenes<br /> <br />3️⃣ <strong>Múltiples formas de motivación y participación</strong></p>\n<p><br />✅ Puntos o stickers virtuales por completar actividades<br />🌟 Retroalimentación positiva inmediata<br />🎯 Actividades opcionales “extra” para los que terminan antes<br />🤝 Trabajo en parejas o grupos para fomentar colaboración</p>\n<p><br /></p>\n<p>🧩 Atención a la diversidad</p>\n<ul>\n<li>Uso de imágenes</li>\n<li>Apoyo visual</li>\n<li>Actividades adaptadas</li>\n<li>Posibilidad de responder oralmente. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozrwvro-humbdlf3w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozrwvro-humbdlf3w</odePageId>
+      <odeBlockId>block-1778271055513-ist885tup</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozrwvro-humbdlf3w</odePageId>
+          <odeBlockId>block-1778271055513-ist885tup</odeBlockId>
+          <odeIdeviceId>idevice-1778271055511-kh64pya6d</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Hábitos saludables y rutinas diarias</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">¡Bienvenidos y bienvenidas!
+En este proyecto vamos a aprender sobre los hábitos saludables y las rutinas diarias en inglés.
+
+Aprenderás a hablar sobre lo que haces cada día y cómo cuidar tu salud.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Inmaculada Lomeña Gamez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">Licencia propietaria</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
